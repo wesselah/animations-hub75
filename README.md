@@ -45,7 +45,7 @@ Otherwise: `pip install pillow paho-mqtt`.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/<your-repo>.git
+git clone https://github.com/wesselah/animations-hub75.git
 cd <your-repo>
 # put your PNG icons/sprites in ./icons  (see "Icons and sprites" below)
 ```
