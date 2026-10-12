@@ -206,4 +206,10 @@ Animations can be simulated without a matrix: replace `stuur_via_ddp` with a fun
 
 ## License
 
-Add a license of your choice (e.g. MIT) before publishing. Pixel-art characters remain the property of their respective owners.
+This uses an MIT license.
+
+## 🤖 Built with Vibe Coding
+A significant portion of this codebase was generated and iterated using AI tools (Claude 3.5 Sonnet).
+
+* **AI Contribution:** ~60% of core logic and UI components.
+* **Human Oversight:** Architecture design, code review, manual testing, and fine-tuning.
